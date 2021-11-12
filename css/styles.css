@@ -1,8 +1,9 @@
 body {
+  background-color: #EEEEEE;
 }
 
 hr {
-  background-color: #EEEEEE;
+
   border-style: dotted;
   border-bottom: none;
   border-left: none;
